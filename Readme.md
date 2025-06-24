@@ -50,4 +50,8 @@ After seeding, you can build agents or interfaces that query the employee databa
 ## File Structure
 
 - `seed-database.ts` – Generates synthetic employee data, summarizes it, and seeds MongoDB with vector search.
--
+- `ReadMe.md` – Project documentation.
+
+## License
+
+MIT
